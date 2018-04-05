@@ -16,3 +16,5 @@ for i in range(x):
     c.append(t)
     print("stopien wierzcholka: ", i+1, 'wynosi:', c[i])
 print('Stopien grafu G wynosi: ',max(c))
+c=[]
+b=[]
