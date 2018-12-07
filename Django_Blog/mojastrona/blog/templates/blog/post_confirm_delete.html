@@ -1,0 +1,8 @@
+{% extends "blog/base.html" %}
+{% block content %}
+  <form method="post">
+    {% csrf_token %}
+    <p>Czy chcesz usunac {{object}}</p>
+      <input type="submit" value="delete">
+  </form>
+{% endblock %}
