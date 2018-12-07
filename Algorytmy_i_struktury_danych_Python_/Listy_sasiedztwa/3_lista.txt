@@ -1,0 +1,9 @@
+#C:/Users/Piotr/Desktop/networkx/dijkstra.py
+# GMT Wed Jun 13 19:37:31 2018
+# 
+0 1
+1 2 4
+2 3 4 5
+3
+4
+5

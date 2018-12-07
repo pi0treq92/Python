@@ -1,0 +1,13 @@
+#C:/Users/Piotr/Desktop/networkx/Zadanie_1.py
+# GMT Wed Jun 13 19:51:42 2018
+# 
+0 1 5 7 4
+1 4 7 2 3
+5 4 7
+7 4
+4 3
+2 6 3
+3
+6
+8
+9
